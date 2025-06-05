@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DANdu45
+- 👋 Hi, I’m @Daniel Sonné
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning all about prgramming
 - 📫 How to reach me: only on this github
